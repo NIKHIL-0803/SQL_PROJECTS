@@ -23,3 +23,5 @@ Content Analysis
 Genre Analysis
 Country-wise Analysis
 Trend Analysis
+LinkedIn: www.linkedin.com/in/nikhil-bhingare-2b835728b
+Email: your-bhingarenikhil8@gmail.com
